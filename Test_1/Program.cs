@@ -30,5 +30,15 @@
 
             return answer;                 // answer에 대한 출력을 해준다.
         }
+
+        static void Main(string[] args)
+        {
+            Solution solution = new Solution();
+
+            solution.solution(2, 3);
+            solution.solution(11, 11);
+            solution.solution(7, 99);
+
+        }
     }
 }
