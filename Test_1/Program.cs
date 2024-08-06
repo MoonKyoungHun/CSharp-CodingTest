@@ -1,4 +1,4 @@
-﻿namespace _240806_1
+﻿namespace Test_1
 {
     // 문제 설명
     // 정수 num1과 num2가 매개변수로 주어집니다.
